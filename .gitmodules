@@ -1,0 +1,6 @@
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/daviholy/bakalarka-dataset
+[submodule "model"]
+	path = model
+	url = git@github.com:daviholy/bakalarka-code.git
